@@ -1,6 +1,8 @@
 
 In this short project, I used LSTM cells with Tensorflow to generate news headlines with the length of 20.
 
+The data is from UC Berkeley's CS 182 class and already preprocessed for easier use. I did not upload it on github since I don't know if I can do so without their permission or not. However, if you want, you can find the link to the weights of models [from my Google Drive](https://drive.google.com/open?id=1BkG8Xr8eBldwGhhUvazrGCoS5RzPHKM_)
+
 There are four models, each with different embedding size: 250, 500, 750 and 1000.
 
 The whole training was done on Google Colab and took about an hour to train them all. Because I cannot keep running an instance on Colab due to timeout, I could not try many different combinations of hyperparameters.
