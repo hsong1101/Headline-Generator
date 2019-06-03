@@ -197,7 +197,7 @@ translate_numerized(sample_numerized)
 
 
 
-Note that any non-alphbets is considered as a separtate word that 'facebook?' is translated to 'facebook ?'.
+Note that any non-alphabet characters is considered as a separate word that 'facebook?' is translated to 'facebook ?'.
 
 Another thing I need is to numerize a given sentence.
 
